@@ -54,7 +54,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 ![alt text](https://github.com/saikrupa82/Django-React.js-with-REST-API/blob/main/Photos/pic6.png?raw=true)
 
 ## Deleting an Element
-![alt text](https://github.com/saikrupa82/Django-React.js-with-REST-API/blob/main/Photos/pic2.png?raw=true)
+![alt text](https://github.com/saikrupa82/Django-React.js-with-REST-API/blob/main/Photos/pic7.png?raw=true)
 
 ## Learn More
 
