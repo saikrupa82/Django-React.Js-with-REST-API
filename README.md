@@ -39,6 +39,23 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
+## Interface of Website
+![alt text]https://github.com/saikrupa82/Django-React.js-with-REST-API/blob/main/Photos/Pic1.png
+
+## Sample Code
+https://github.com/saikrupa82/Django-React.js-with-REST-API/blob/main/Photos/pic2.png
+
+## Adding an item
+https://github.com/saikrupa82/Django-React.js-with-REST-API/blob/main/Photos/pic3.png
+https://github.com/saikrupa82/Django-React.js-with-REST-API/blob/main/Photos/pic4.png
+https://github.com/saikrupa82/Django-React.js-with-REST-API/blob/main/Photos/pic5.png
+
+## DataBase
+https://github.com/saikrupa82/Django-React.js-with-REST-API/blob/main/Photos/pic6.png
+
+## Deleting an Element
+https://github.com/saikrupa82/Django-React.js-with-REST-API/blob/main/Photos/pic2.png
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
